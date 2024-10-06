@@ -1,0 +1,10 @@
+{
+    "AHK++.v2.formatter": {
+        "maxPreserveNewlines": 2,
+        "wrapLineLength": 1200
+    },
+    "AHK++.v2.file": {
+        "interpreterPath": "C:\\Program Files\\AutoHotkey\\v2\\AutoHotkey.exe",
+        "maxScanDepth": 2
+    },
+}

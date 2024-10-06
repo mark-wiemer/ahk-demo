@@ -1,0 +1,13 @@
+#Requires AutoHotkey v1
+
+; Shift+Alt+F to format
+ ExitApp
+
+; Preserve newlines
+
+
+
+
+; How many were preserved? ;)
+
+; todo other options not tested

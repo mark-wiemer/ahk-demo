@@ -1,0 +1,14 @@
+#Requires AutoHotkey v2.0
+#SingleInstance
+
+;; General
+; showOutput
+; always: shows on start
+; never: never shows
+; works only for running scripts
+; running: output is in the Output view
+
+; always
+; never
+x := 1
+MsgBox("hi")
