@@ -7,4 +7,5 @@
         "interpreterPath": "C:\\Program Files\\AutoHotkey\\v2\\AutoHotkey.exe",
         "maxScanDepth": 2
     },
+    "git.branchProtection": [],
 }
