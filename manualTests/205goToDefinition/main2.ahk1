@@ -1,0 +1,9 @@
+#NoEnv
+#SingleInstance, Force
+SendMode, Input
+SetBatchLines, -1
+SetWorkingDir, %A_ScriptDir%
+
+#Include, included2.ahk1
+
+My205IncludedFunc()
